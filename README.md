@@ -46,4 +46,6 @@ I thrive on building projects that blend hardware and software, and I enjoy coll
 
 ---
 
-![Kaviya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaviya-118&show_icons=true&theme=radical)
+![Custom Rank](https://img.shields.io/badge/GitHub%20Rank-1-blue?style=for-the-badge)
+
+Total Configurations: **184**
