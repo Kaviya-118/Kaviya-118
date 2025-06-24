@@ -46,6 +46,4 @@ I thrive on building projects that blend hardware and software, and I enjoy coll
 
 ---
 
-![Custom Rank](https://img.shields.io/badge/GitHub%20Rank-1-blue?style=for-the-badge)
 
-Total Configurations: **184**
