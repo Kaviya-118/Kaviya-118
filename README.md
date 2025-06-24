@@ -47,5 +47,6 @@ I thrive on building projects that blend hardware and software, and I enjoy coll
 
 ---
 
-![Kaviya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaviya-118&show_icons=true&theme=radical)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaviya-118&theme=radical)
+
 
