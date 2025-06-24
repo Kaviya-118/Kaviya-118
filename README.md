@@ -38,6 +38,7 @@ I thrive on building projects that blend hardware and software, and I enjoy coll
 
 ## 📫 Connect with Me
 
+
 - [LinkedIn](https://www.linkedin.com/in/kaviya-a-236703258)
 
 ---
@@ -46,4 +47,5 @@ I thrive on building projects that blend hardware and software, and I enjoy coll
 
 ---
 
+![Kaviya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaviya-118&show_icons=true&theme=radical)
 
