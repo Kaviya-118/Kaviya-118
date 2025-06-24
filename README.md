@@ -47,6 +47,5 @@ I thrive on building projects that blend hardware and software, and I enjoy coll
 
 ---
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaviya-118&theme=radical)
 
 
